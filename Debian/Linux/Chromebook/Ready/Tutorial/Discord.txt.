@@ -1,0 +1,18 @@
+How to install discord.
+goto https://discord.com/downloads
+goto the linux download.
+Click .deb
+Move discord-0.o.17.deb to your linux directory.
+goto terminal.
+type in { sudo echo deb https://deb.debian.org/debian buster main  | sudo tee -a /etc/apt/sources.list.d/discord_chrome_os_made_simple.list
+2 sudo apt update
+3 wget https://dl.discordapp.net/apps/linux/0.0.17/discord-0.0.17.deb
+  4sudo dpkg -i discord-0.0.17.deb
+5 sudo apt -f install
+6 sudo rm /etc/apt/sources.list.d/discord_chrome_os_made_simple.list
+7 sudo rm discord-0.0.17.deb
+8 sudo apt update}
+The discord app should be installed.
+How to install the discord web app/shortcut
+goto chrome.google.com/webstore/detail/discord-desktop/keldmkejekdkhdafcidopcdjlpgecghm/related?hl=en-US
+Hit instll
