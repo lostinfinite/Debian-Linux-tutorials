@@ -1,0 +1,8 @@
+Open your terminal and run
+1  sudo chmod a+x BetterDiscord-Linux.AppImage
+
+2 ./BetterDiscord-Linux.AppImage
+
+3 sudo apt install menulibre
+
+4   menulibre
