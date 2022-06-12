@@ -1,5 +1,5 @@
 If you want to import a plugin into the BetterDiscord Directory then do the following 
-Open your terminal and type. 1, ~/.config/BetterDiscord/plugins then you should see -bash: /home/Example User/.config/BetterDiscord/plugins: Is a directory
+Open your terminal and type. 1, curl -J "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Plugins/PluginRepo/PluginRepo.plugin.js" > ~/.config/BetterDiscord/plugins/PluginRepo.plugin.js
 Then you should get "Plugin Repo"
 How to get themes on BetterDiscord?
 Discord/User settings/BetterDiscord/Plugin repo/search. Search "Theme Repo" Then hit install.
